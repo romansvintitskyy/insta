@@ -10,5 +10,6 @@ target 'insta' do
   pod 'Alamofire', '~> 4.4'
   pod 'AlamofireImage'
   pod 'Parse'
+  pod 'MessageInputBar'
   
 end

@@ -24,6 +24,7 @@
 		2259BEA82543636E0001A0C7 /* feed_tab@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2259BE9B2543636E0001A0C7 /* feed_tab@3x.png */; };
 		2259BEAD2543D1C10001A0C7 /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2259BEAC2543D1C10001A0C7 /* CameraViewController.swift */; };
 		2259BEB22543EA3E0001A0C7 /* PostCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2259BEB12543EA3E0001A0C7 /* PostCell.swift */; };
+		225D7E7C254CFE89009E4430 /* CommentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 225D7E7B254CFE89009E4430 /* CommentCell.swift */; };
 		2265FA172543372200087B0C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2265FA162543372200087B0C /* AppDelegate.swift */; };
 		2265FA192543372200087B0C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2265FA182543372200087B0C /* SceneDelegate.swift */; };
 		2265FA1E2543372200087B0C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2265FA1C2543372200087B0C /* Main.storyboard */; };
@@ -69,6 +70,7 @@
 		2259BE9B2543636E0001A0C7 /* feed_tab@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "feed_tab@3x.png"; path = "../../../../Downloads/instagram_assets/feed_tab@3x.png"; sourceTree = "<group>"; };
 		2259BEAC2543D1C10001A0C7 /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
 		2259BEB12543EA3E0001A0C7 /* PostCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCell.swift; sourceTree = "<group>"; };
+		225D7E7B254CFE89009E4430 /* CommentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentCell.swift; sourceTree = "<group>"; };
 		2265FA132543372200087B0C /* insta.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = insta.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2265FA162543372200087B0C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2265FA182543372200087B0C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -161,6 +163,7 @@
 				2259BE8A25435A210001A0C7 /* FeedViewController.swift */,
 				2259BEAC2543D1C10001A0C7 /* CameraViewController.swift */,
 				2259BEB12543EA3E0001A0C7 /* PostCell.swift */,
+				225D7E7B254CFE89009E4430 /* CommentCell.swift */,
 			);
 			path = insta;
 			sourceTree = "<group>";
@@ -393,6 +396,7 @@
 				2259BE8B25435A210001A0C7 /* FeedViewController.swift in Sources */,
 				2265FA192543372200087B0C /* SceneDelegate.swift in Sources */,
 				2259BEB22543EA3E0001A0C7 /* PostCell.swift in Sources */,
+				225D7E7C254CFE89009E4430 /* CommentCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
